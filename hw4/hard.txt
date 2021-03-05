@@ -1,0 +1,3 @@
+1. N=4, M=5, Prefix = "SPisGooood", Goal = "1234"
+2. N=4, M=5, Prefix = "SPisBad", Goal = "5678"
+3. N=4, M=5, Prefix = "SPPAssss", Goal = "1a2b"
